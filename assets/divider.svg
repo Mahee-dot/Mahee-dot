@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 8" width="800" height="8" role="img" aria-label="Divider" shape-rendering="crispEdges">
+  <line x1="0" y1="4" x2="800" y2="4" stroke="#7C6AA8" stroke-opacity="0.55" stroke-width="4" stroke-dasharray="4 8"/>
+  <line x1="0" y1="4" x2="800" y2="4" stroke="#56D4DD" stroke-width="4" stroke-dasharray="4 8 4 8 4 776">
+    <animate attributeName="stroke-dashoffset" from="24" to="-800" dur="8s" repeatCount="indefinite"/>
+  </line>
+</svg>
