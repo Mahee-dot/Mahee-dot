@@ -20,7 +20,7 @@ Mahee-dot@github:~/profile$ cat goals.txt
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## ~/about
+## about
 
 ```yaml
 status    : 2nd year, Computer Engineering
@@ -29,7 +29,7 @@ competing : hackathons and technical competitions
 learning  : GenAI
 ```
 
-## ~/stack
+## stack
 
 | | |
 |---|---|
@@ -43,7 +43,7 @@ learning  : GenAI
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## ~/activity
+## activity
 
 <div align="center">
 <picture>
@@ -53,7 +53,7 @@ learning  : GenAI
 </picture>
 </div>
 
-## ~/stats
+## stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahee-dot&layout=compact&langs_count=6&card_width=320&hide_border=true&bg_color=0D1117&title_color=56D4DD&text_color=C9D1D9&custom_title=Most%20Used%20Languages" alt="Most used languages across my public repositories" />
