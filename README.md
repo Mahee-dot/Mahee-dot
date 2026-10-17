@@ -5,7 +5,7 @@
 </div>
 
 ```console
-Mahee-dot@github:~/profile$ whoami
+WhoamI
 Mahi · Computer Engineering student
 
 About
