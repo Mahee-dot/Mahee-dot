@@ -39,7 +39,7 @@ learning  : GenAI
 |---|---|
 | **Languages** | `Java, C, HTML, CSS, Python` |
 | **Web & backend** | ![React](https://img.shields.io/badge/-React-161B22?style=flat-square&logo=react&logoColor=56D4DD) ![NestJS](https://img.shields.io/badge/-NestJS-161B22?style=flat-square&logo=nestjs&logoColor=56D4DD) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=56D4DD) ![Redis](https://img.shields.io/badge/-Redis-161B22?style=flat-square&logo=redis&logoColor=56D4DD) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-161B22?style=flat-square&logo=rabbitmq&logoColor=56D4DD) |
-| **AI & ML** | `[ADD LIBRARIES / MODELS / APIS]` |
+| **AI & ML** | `` |
 | **Tools & platforms** | ![Google Maps](https://img.shields.io/badge/-Google%20Maps%20API-161B22?style=flat-square&logo=googlemaps&logoColor=56D4DD) `[ADD TOOLS]` |
 
 <!-- Add a badge: ![Name](https://img.shields.io/badge/-Name-161B22?style=flat-square&logo=SIMPLE_ICONS_SLUG&logoColor=56D4DD) -->
