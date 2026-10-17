@@ -8,11 +8,11 @@
 Mahee-dot@github:~/profile$ whoami
 Mahi · Computer Engineering student
 
-Mahee-dot@github:~/profile$ cat about.txt
+About
 I build software, mostly AI-flavoured,
 and I care about the problem more than the stack.
 
-Mahee-dot@github:~/profile$ cat goals.txt
+Goals
 [ ] Learn something new every week
 [ ] Finish and share more projects
 [ ] Get better at understanding AI
